@@ -1,0 +1,32 @@
+login Alice
+logout
+
+login Bob
+logout
+
+login Ann
+logout
+
+login Alice
+transfer Bob 50
+logout
+
+login Bob
+transfer Ann 50
+logout
+
+login Ann
+transfer Alice 50
+logout
+
+login Alice
+deposit 50
+logout
+
+login Bob
+logout
+
+login Ann
+logout
+
+exit

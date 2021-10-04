@@ -1,0 +1,75 @@
+ATM started. All inputs are case-sensitive. Use 'help' to see available commands.
+
+Hello, Alice!
+Your balance is $0
+
+Goodbye, Alice!
+
+
+Hello, Bob!
+Your balance is $0
+
+Goodbye, Bob!
+
+
+Hello, Ann!
+Your balance is $0
+
+Goodbye, Ann!
+
+
+Hello, Alice!
+Your balance is $0
+
+Your balance is $0
+Owed $50 to Bob
+
+Goodbye, Alice!
+
+
+Hello, Bob!
+Your balance is $0
+Owed $50 from Alice
+
+Your balance is $0
+Owed $50 to Ann
+Owed $50 from Alice
+
+Goodbye, Bob!
+
+
+Hello, Ann!
+Your balance is $0
+Owed $50 from Bob
+
+Your balance is $0
+Owed $50 to Alice
+Owed $50 from Bob
+
+Goodbye, Ann!
+
+
+Hello, Alice!
+Your balance is $0
+Owed $50 to Bob
+Owed $50 from Ann
+
+Transferred $50 to Bob
+Your balance is $50
+
+Goodbye, Alice!
+
+
+Hello, Bob!
+Your balance is $0
+
+Goodbye, Bob!
+
+
+Hello, Ann!
+Your balance is $0
+
+Goodbye, Ann!
+
+
+ATM stopped.

@@ -1,0 +1,25 @@
+login Alice
+deposit 100
+logout
+
+login Bob
+deposit 60
+transfer Alice 50
+transfer Alice 150
+deposit 50
+logout
+
+login Alice
+transfer Bob 50
+logout
+
+login Bob
+deposit 100
+withdraw 60
+logout
+
+login Alice
+withdraw 250
+logout
+
+exit
